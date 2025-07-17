@@ -40,9 +40,6 @@
 🔗 [Weather Application](https://sanket-darunkar.github.io/Weather-application)  
 A responsive weather forecast web app using HTML, CSS, JavaScript,Api's and Tailwind CSS.
 
-🔗 [Cryptography App](https://github.com/sanket-darunkar/Cryptography-App)  
-Android-based app using Java for encrypting and decrypting user messages securely.
-
 ---
 
 ## 📊 GitHub Stats:
