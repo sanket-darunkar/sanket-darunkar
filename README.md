@@ -5,7 +5,7 @@
 
 🌱 Currently learning **C++**, **Next.js**, and **cloud deployment best practices**.
 
-💬 Ask me about **Full Stack Web Development**, **MERN Stack**, **JavaScript**, **C++**, and creating responsive UIs.
+💬 Ask me about **Full Stack Web Development**, **Java Stack**, **JavaScript**, **C++**, and creating responsive UIs.
 
 ⚡ Fun Fact: I love exploring new technologies and constantly strive for growth in tech.
 
@@ -33,6 +33,7 @@
 
 **Database & Tools:**  
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
 
 ---
 
